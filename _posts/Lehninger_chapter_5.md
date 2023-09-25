@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Lehninger生物化学原理 Chapter 5 氨基酸、多肽和蛋白 
+subtitle:   This is subtitle
+date:       2023-09-25
+author:     Wang Pei
+header-img: img/post-bg-swift2.jpg
+catalog: true
+tags:
+    - biochemistry
+---
+
 # Lehninger生物化学原理 Chapter 5 氨基酸、多肽和蛋白 
 
 ```text
