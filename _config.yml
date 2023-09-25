@@ -1,9 +1,9 @@
 # Site settings
 title: Qianmou2718_Blog
-SEOTitle: 我的博客 | My Blog
+SEOTitle: My Blog
 header-img: img/post-bg-desk.jpg
-email: 暂无
-description: "写一句你想写的话"
+email: qianyifan21@gmail.com
+description: "瞎几把写"
 keyword: "some note"
 url: "https://qianmou2718.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -19,8 +19,8 @@ sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's use
 # SNS settings
 RSS: false
 # weibo_username:     暂无
-zhihu_username:     暂无
-github_username:    暂无
+zhihu_username:     "薛定谔的猫爪牙"
+github_username:    "qianmou2718"
 facebook_username:  暂无
 jianshu_username:   暂无
 #twitter_username:   暂无
